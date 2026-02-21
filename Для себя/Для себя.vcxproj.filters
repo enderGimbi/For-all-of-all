@@ -15,50 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="MyLibForAll.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="pract.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="BMPex.cpp">
+    <ClCompile Include="modul2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="text.txt">
+    <None Include="array2D_2.bin">
       <Filter>Файлы ресурсов</Filter>
-    </Text>
-    <Text Include="Array2D.txt">
+    </None>
+    <None Include="array2D_1.bin">
       <Filter>Файлы ресурсов</Filter>
-    </Text>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <Text Include="result.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="text_2.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="MyLibForAll.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="BMPex.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="square13.bmp">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
-    <Image Include="square13 copy.bmp">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
-    <Image Include="square14.bmp">
-      <Filter>Файлы ресурсов</Filter>
-    </Image>
   </ItemGroup>
 </Project>
